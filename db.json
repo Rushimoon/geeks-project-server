@@ -1,0 +1,1555 @@
+{
+  "admin_detials": [
+    {
+      "admin_name": "Rushikesh",
+      "admin_password": 12345
+    },
+    {
+      "admin_name": "Abhinav",
+      "admin_password": 12345
+    },
+    {
+      "admin_name": "Saheli",
+      "admin_password": 12345
+    },
+    {
+      "admin_name": " Shubhainder",
+      "admin_password": 12345
+    },
+    {
+      "admin_name": "Rishab",
+      "admin_password": 12345
+    }
+  ],
+  "user_detials": [
+    {
+      "name": "abhi1798",
+      "password": "pass@123",
+      "id": 1
+    },
+    {
+      "name": "abhinav1798",
+      "password": "pass@12345",
+      "id": 2
+    },
+    {
+      "name": "rushi",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "moon",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "rushi",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "rushi",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "name": "rushi",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "name": "rushi",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "rushi",
+      "password": "1234",
+      "id": 9
+    },
+    {
+      "name": "rushi",
+      "password": "1234",
+      "id": 10
+    }
+  ],
+  "Consumer_Electronics": [
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#4",
+      "product_title": "qwer",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/200/200/krtjgcw0/headphone/d/9/g/au-mh501-maono-original-imag5j35rffkwpac.jpeg?q=70",
+      "product_price": 34,
+      "product_detail_url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87/ref=zg_bs_amazon-devices_sccl_4/143-7113297-8090049?psc=1",
+      "id": "B08C1W5N87"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#5",
+      "product_title": "All-New Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Charcoal",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL300_SR300,200_.jpg",
+      "product_price": 27.99,
+      "product_detail_url": "https://www.amazon.com/All-New-release-Smart-speaker-Charcoal/dp/B09B8V1LZ3/ref=zg_bs_amazon-devices_sccl_5/143-7113297-8090049?psc=1",
+      "id": "B09B8V1LZ3"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#6",
+      "product_title": "Fire TV Stick 4K Max streaming device, Wi-Fi 6, Alexa Voice Remote (includes TV controls)",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/41XTOfFgUqL._AC_UL300_SR300,200_.jpg",
+      "product_price": 34.99,
+      "product_detail_url": "https://www.amazon.com/fire-tv-stick-4k-max-with-alexa-voice-remote/dp/B08MQZXN1X/ref=zg_bs_amazon-devices_sccl_6/143-7113297-8090049?psc=1",
+      "id": "B08MQZXN1X"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#7",
+      "product_title": "Blink Mini – Compact indoor plug-in smart security camera, 1080p HD video, night vision, motion detection, two-way audio, easy set up, Works with Alexa – 1 camera (White)",
+      "reviews": "4.4 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/31k4JysPQ5L._AC_UL300_SR300,200_.jpg",
+      "product_price": 29.99,
+      "product_detail_url": "https://www.amazon.com/Blink-Mini-White-1Cam/dp/B07X6C9RMF/ref=zg_bs_amazon-devices_sccl_7/143-7113297-8090049?psc=1",
+      "id": "B07X6C9RMF"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#8",
+      "product_title": "All-New Echo Dot (5th Gen, 2022 release) with clock | Smart speaker with clock and Alexa | Cloud Blue",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/71XqKlSdUCL._AC_UL300_SR300,200_.jpg",
+      "product_price": 39.99,
+      "product_detail_url": "https://www.amazon.com/All-New-release-clock-Smart-speaker/dp/B09B8W5FW7/ref=zg_bs_amazon-devices_sccl_8/143-7113297-8090049?psc=1",
+      "id": "B09B8W5FW7"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#9",
+      "product_title": "All-new Amazon Fire HD 8 tablet, 8” HD Display, 32 GB, 30% faster processor, designed for portable entertainment, (2022 release), Black\t",
+      "reviews": "4.3 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/61fgc1OW1ZL._AC_UL300_SR300,200_.jpg",
+      "product_price": 54.99,
+      "product_detail_url": "https://www.amazon.com/All-new-Fire-HD-8-tablet/dp/B099Z8HLHT/ref=zg_bs_amazon-devices_sccl_9/143-7113297-8090049?psc=1",
+      "id": "B099Z8HLHT"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#10",
+      "product_title": "Kindle Paperwhite (8 GB) – Now with a 6.8\" display and adjustable warm light",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/51QCk82iGcL._AC_UL300_SR300,200_.jpg",
+      "product_price": 109.99,
+      "product_detail_url": "https://www.amazon.com/Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249/ref=zg_bs_amazon-devices_sccl_10/143-7113297-8090049?psc=1",
+      "id": "B08KTZ8249"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#11",
+      "product_title": "Echo Show 8 (2nd Gen, 2021 release) | HD smart display with Alexa and 13 MP camera | Charcoal",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/51yQll2L7xL._AC_UL300_SR300,200_.jpg",
+      "product_price": 69.99,
+      "product_detail_url": "https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=zg_bs_amazon-devices_sccl_11/143-7113297-8090049?psc=1",
+      "id": "B084DCJKSL"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#12",
+      "product_title": "All-New Echo Dot (5th Gen, 2022 release) Kids | Designed for kids, with parental controls | Owl",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/71SJzVbNqzL._AC_UL300_SR300,200_.jpg",
+      "product_price": 29.99,
+      "product_detail_url": "https://www.amazon.com/All-New-release-Designed-parental-controls/dp/B09B9CD1YB/ref=zg_bs_amazon-devices_sccl_12/143-7113297-8090049?psc=1",
+      "id": "B09B9CD1YB"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#13",
+      "product_title": "All-New Echo Dot (5th Gen, 2022 release) with clock | Smart speaker with clock and Alexa | Glacier White",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/71-WQ9PAECL._AC_UL300_SR300,200_.jpg",
+      "product_price": 39.99,
+      "product_detail_url": "https://www.amazon.com/All-New-release-clock-speaker-Glacier/dp/B09B8VN8YQ/ref=zg_bs_amazon-devices_sccl_13/143-7113297-8090049?psc=1",
+      "id": "B09B8VN8YQ"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#14",
+      "product_title": "Fire 7 Kids tablet, 7\" display, ages 3-7, with ad-free content kids love, 2-year worry-free guarantee, parental controls, 16 GB, (2022 release), Blue",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/61LI3X3PtIL._AC_UL300_SR300,200_.jpg",
+      "product_price": 59.99,
+      "product_detail_url": "https://www.amazon.com/Fire-7-Kids-Tablet/dp/B099HDR2Y6/ref=zg_bs_amazon-devices_sccl_14/143-7113297-8090049?psc=1",
+      "id": "B099HDR2Y6"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#15",
+      "product_title": "Fire HD 10 tablet, 10.1\", 1080p Full HD, 32 GB, latest model (2021 release), Black\t",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/61uE03cRsyS._AC_UL300_SR300,200_.jpg",
+      "product_price": 89.99,
+      "product_detail_url": "https://www.amazon.com/Fire-HD-10-tablet/dp/B08BX7FV5L/ref=zg_bs_amazon-devices_sccl_15/143-7113297-8090049?psc=1",
+      "id": "B08BX7FV5L"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#16",
+      "product_title": "Amazon Smart Plug, for home automation, Works with Alexa - A Certified for Humans Device",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/41couS+UODL._AC_UL300_SR300,200_.jpg",
+      "product_price": 24.99,
+      "product_detail_url": "https://www.amazon.com/Amazon-smart-plug-works-with-Alexa/dp/B089DR29T6/ref=zg_bs_amazon-devices_sccl_16/143-7113297-8090049?psc=1",
+      "id": "B089DR29T6"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#17",
+      "product_title": "Echo Show 5 (2nd Gen, 2021 release) | Smart display with Alexa and 2 MP camera | Charcoal",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/51iobpaEM5S._AC_UL300_SR300,200_.jpg",
+      "product_price": 34.99,
+      "product_detail_url": "https://www.amazon.com/Echo-Show-5-2nd-Gen-2021-release/dp/B08J8FFJ8H/ref=zg_bs_amazon-devices_sccl_17/143-7113297-8090049?psc=1",
+      "id": "B08J8FFJ8H"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#18",
+      "product_title": "Echo Show 5 (2nd Gen, 2021 release) | Smart display with Alexa and 2 MP camera | Deep Sea Blue",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/513J+1JcSCS._AC_UL300_SR300,200_.jpg",
+      "product_price": 34.99,
+      "product_detail_url": "https://www.amazon.com/Echo-Show-5-2nd-Gen-2021-release/dp/B08KJN3333/ref=zg_bs_amazon-devices_sccl_18/143-7113297-8090049?psc=1",
+      "id": "B08KJN3333"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#19",
+      "product_title": "Ring Video Doorbell Wired – Convenient, essential features in a compact design, pair with Ring Chime to hear audio alerts in your home (existing doorbell wiring required) - 2021 release",
+      "reviews": "4.5 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/71bgyic1TQL._AC_UL300_SR300,200_.jpg",
+      "product_price": 39.99,
+      "product_detail_url": "https://www.amazon.com/Ring-Video-Doorbell-Wired/dp/B08CKHPP52/ref=zg_bs_amazon-devices_sccl_19/143-7113297-8090049?psc=1",
+      "id": "B08CKHPP52"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#20",
+      "product_title": "Kindle Paperwhite Signature Edition (32 GB) – With a 6.8\" display, wireless charging, and auto-adjusting front light – Without Lockscreen Ads",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/51N5CsWCIBL._AC_UL300_SR300,200_.jpg",
+      "product_price": 144.99,
+      "product_detail_url": "https://www.amazon.com/kindle-paperwhite-Signature-Edition/dp/B08B495319/ref=zg_bs_amazon-devices_sccl_20/143-7113297-8090049?psc=1",
+      "id": "B08B495319"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#21",
+      "product_title": "All-New Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Deep Sea Blue",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/61ZsZ3kOZSL._AC_UL300_SR300,200_.jpg",
+      "product_price": 27.99,
+      "product_detail_url": "https://www.amazon.com/All-New-release-Smart-speaker-Alexa/dp/B09B93ZDG4/ref=zg_bs_amazon-devices_sccl_21/143-7113297-8090049?psc=1",
+      "id": "B09B93ZDG4"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#22",
+      "product_title": "SONY Alpha 7M3K Mirrorless Camera Body with 28 - 70 mm Zoom Lens  (Black)",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/q/l/w/-original-imag8z5wwaqtq9bz.jpeg?q=70",
+      "product_price": 34,
+      "product_detail_url": "https://www.amazon.com/Echo-Show-5-2nd-Gen-2021-release/dp/B08J8H8L5T/ref=zg_bs_amazon-devices_sccl_22/143-7113297-8090049?psc=1",
+      "id": "B08J8H8L5T"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#23",
+      "product_title": "Ring Video Doorbell 3 – enhanced wifi, improved motion detection, easy installation",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/71v6fiYWE5L._AC_UL300_SR300,200_.jpg",
+      "product_price": 139.99,
+      "product_detail_url": "https://www.amazon.com/Ring-Video-Doorbell-3/dp/B0849J7W5X/ref=zg_bs_amazon-devices_sccl_23/143-7113297-8090049?psc=1",
+      "id": "B0849J7W5X"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#24",
+      "product_title": "All-New Echo Dot (5th Gen, 2022 release) | With bigger vibrant sound, helpful routines and Alexa | Glacier White",
+      "reviews": "4.6 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/71W2eDGsAJL._AC_UL300_SR300,200_.jpg",
+      "product_price": 27.99,
+      "product_detail_url": "https://www.amazon.com/All-New-release-Smart-speaker-Glacier/dp/B09B94RL1R/ref=zg_bs_amazon-devices_sccl_24/143-7113297-8090049?psc=1",
+      "id": "B09B94RL1R"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#25",
+      "product_title": "Ring Stick Up Cam Battery HD security camera with custom privacy controls, Simple setup, Works with Alexa - White",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/41Hc4IGGzdL._AC_UL300_SR300,200_.jpg",
+      "product_price": 69.99,
+      "product_detail_url": "https://www.amazon.com/All-new-Ring-Stick-Up-Cam-Battery-HD-security-camera-with-two-way-talk-Works-with-Alexa-/dp/B07Q6ZZFLS/ref=zg_bs_amazon-devices_sccl_25/143-7113297-8090049?psc=1",
+      "id": "B07Q6ZZFLS"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#26",
+      "product_title": "Kindle Paperwhite (16 GB) – Now with a 6.8\" display and adjustable warm light",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/51QCk82iGcL._AC_UL300_SR300,200_.jpg",
+      "product_price": 114.99,
+      "product_detail_url": "https://www.amazon.com/Kindle-Paperwhite-16-GB-adjustable/dp/B09TMN58KL/ref=zg_bs_amazon-devices_sccl_26/143-7113297-8090049?psc=1",
+      "id": "B09TMN58KL"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#27",
+      "product_title": "Fire TV Stick Lite, free and live TV, Alexa Voice Remote Lite, smart home controls, HD streaming",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/41pGFbSrrRL._AC_UL300_SR300,200_.jpg",
+      "product_price": 19.99,
+      "product_detail_url": "https://www.amazon.com/fire-tv-stick-lite-latest-alexa-voice-remote-lite/dp/B091G4YP57/ref=zg_bs_amazon-devices_sccl_27/143-7113297-8090049?psc=1",
+      "id": "B091G4YP57"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#28",
+      "product_title": "All-new Amazon Fire HD 8 Kids Pro tablet, 8\" HD display, ages 6-12, 30% faster processor, 13 hours battery life, Kid-Friendly Case, 32 GB, (2022 release), Rainbow Universe",
+      "reviews": "4.4 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/513QhWxrszL._AC_UL300_SR300,200_.jpg",
+      "product_price": 89.99,
+      "product_detail_url": "https://www.amazon.com/Amazon-Official-Site-Fire-HD-Kids-8-Pro-Tablet-8-inch-Display-2022-release/dp/B09BG63ZMM/ref=zg_bs_amazon-devices_sccl_28/143-7113297-8090049?psc=1",
+      "id": "B09BG63ZMM"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#29",
+      "product_title": "All-new Kindle (2022 release) – The lightest and most compact Kindle, now with a 6” 300 ppi high-resolution display, and 2x the storage - Black",
+      "reviews": "4.4 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/714brROA9eL._AC_UL300_SR300,200_.jpg",
+      "product_price": 89.99,
+      "product_detail_url": "https://www.amazon.com/kindle-the-lightest-and-most-compact-kindle/dp/B09SWW583J/ref=zg_bs_amazon-devices_sccl_29/143-7113297-8090049?psc=1",
+      "id": "B09SWW583J"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#30",
+      "product_title": "Fire TV Stick Lite, free and live TV, Alexa Voice Remote Lite, smart home controls, HD streaming",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/51Da2Z+FTFL._AC_UL300_SR300,200_.jpg",
+      "product_price": 19.99,
+      "product_detail_url": "https://www.amazon.com/fire-tv-stick-lite/dp/B07YNLBS7R/ref=zg_bs_amazon-devices_sccl_30/143-7113297-8090049?psc=1",
+      "id": "B07YNLBS7R"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_title": "qwer",
+      "product_price": "2423we",
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/q/l/w/-original-imag8z5wwaqtq9bz.jpeg?q=70",
+      "product_description": "Impress the world with stunning photos and wonderful videos captured using this Sony α7 III DSLR camera that meets all your shooting needs with its innovative features",
+      "id": "EnW_B7N"
+    },
+    {
+      "product_title": "SONY Alpha 7M3K Mirrorless Camera Body with 28 - 70 mm Zoom Lens  (Black)",
+      "product_price": "152",
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/q/l/w/-original-imag8z5wwaqtq9bz.jpeg?q=70",
+      "product_description": "Impress the world with stunning photos and wonderful videos captured using this Sony α7 III DSLR camera that meets all your shooting needs with its innovative features. ",
+      "id": "Kj5JNcM"
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_title": "SONY Alpha 7M3K Mirrorless Camera Body with 28 - 70 mm Zoom Lens  (Black)",
+      "product_price": 3000,
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/200/200/kit6hzk0-0/toy-sport/k/q/l/inline-skates-abec-7-unisex-indoor-and-outdoor-adjustable-size-original-imafygsgdruhej5m.jpeg?q=70",
+      "product_description": "undefeinde",
+      "id": "KqR1jSF"
+    }
+  ],
+  "Sports_&_Outdoors": [
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066456,
+      "product_title": "head phons",
+      "product_price": 340,
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/200/200/l432ikw0/headphone/n/g/n/-original-imagf2yzeffezg4g.jpeg?q=70"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066480,
+      "product_title": "watch",
+      "product_price": 165,
+      "product_main_image_url": "https://img.gkbcdn.com/p/2022-11-25/Zeblaze-VIBE-7-Smartwatch-Black-518424-0._w280_p1_.jpg"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066492,
+      "product_title": "ASRA monty zip front heeled boots in black leather",
+      "product_price": 165,
+      "product_main_image_url": "https://images.asos-media.com/products/asra-monty-zip-front-heeled-boots-in-black-leather/203066492-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066501,
+      "product_title": "ASRA marlin square toe heeled boots in black leather",
+      "product_price": 165,
+      "product_main_image_url": "https://images.asos-media.com/products/asra-marlin-square-toe-heeled-boots-in-black-leather/203066501-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203173026,
+      "product_title": "Noak made in Portugal brogue shoes in brown suede",
+      "product_price": 128,
+      "product_main_image_url": "https://images.asos-media.com/products/noak-made-in-portugal-brogue-shoes-in-brown-suede/203173026-1-brown"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203177263,
+      "product_title": "Noak made in Portugal monk shoes in brown leather",
+      "product_price": 137,
+      "product_main_image_url": "https://images.asos-media.com/products/noak-made-in-portugal-monk-shoes-in-brown-leather/203177263-1-darkbrown"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203261724,
+      "product_title": "Noak made in Portugal lace up brogue boots in brown leather",
+      "product_price": 171,
+      "product_main_image_url": "https://images.asos-media.com/products/noak-made-in-portugal-lace-up-brogue-boots-in-brown-leather/203261724-1-brown"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 202346181,
+      "product_title": "Tommy Hilfiger technical sandals in navy",
+      "product_price": 6,
+      "product_main_image_url": "https://images.asos-media.com/products/tommy-hilfiger-technical-sandals-in-navy/202346181-1-navy"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 202647427,
+      "product_title": "Puma Calibrate Restored sneakers in white multi",
+      "product_price": 140,
+      "product_main_image_url": "https://images.asos-media.com/products/puma-calibrate-restored-sneakers-in-white-multi/202647427-1-whitemulti"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 202770485,
+      "product_title": "Lacoste L005 Sneakers In White Green",
+      "product_price": 126,
+      "product_main_image_url": "https://images.asos-media.com/products/lacoste-l005-sneakers-in-white-green/202770485-1-white"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203304064,
+      "product_title": "Kickers Kick Hi boots in brown suede exclusive to ASOS",
+      "product_price": 165,
+      "product_main_image_url": "https://images.asos-media.com/products/kickers-kick-hi-boots-in-brown-suede-exclusive-to-asos/203304064-1-brown"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203349737,
+      "product_title": "New Balance XC-72 sneakers in beige",
+      "product_price": 110,
+      "product_main_image_url": "https://images.asos-media.com/products/new-balance-xc-72-sneakers-in-beige/203349737-1-beige"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203359581,
+      "product_title": "Nike Air Huarache sneakers in dark blue and multi",
+      "product_price": 130,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-air-huarache-sneakers-in-dark-blue-and-multi/203359581-1-darkblue"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203360114,
+      "product_title": "Nike Air Max Terrascape 97 sneakers in white",
+      "product_price": 185,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-air-max-terrascape-97-sneakers-in-white/203360114-1-white"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203508018,
+      "product_title": "Nike Air Max Flyknit Racer sneakers in black",
+      "product_price": 160,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-air-max-flyknit-racer-sneakers-in-black/203508018-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203772542,
+      "product_title": "New Look chunky d ring loafers in black",
+      "product_price": 6,
+      "product_main_image_url": "https://images.asos-media.com/products/new-look-chunky-d-ring-loafers-in-black/203772542-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203776786,
+      "product_title": "New Look plain brogues in dark brown",
+      "product_price": 5,
+      "product_main_image_url": "https://images.asos-media.com/products/new-look-plain-brogues-in-dark-brown/203776786-1-darkbrown"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203959413,
+      "product_title": "Converse Chuck Taylor All Star Hi explore sneakers in iron gray",
+      "product_price": 7,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-taylor-all-star-hi-explore-sneakers-in-iron-gray/203959413-1-irongrey"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204043942,
+      "product_title": "Converse Chuck Taylor All Star TecTuff sneakers in dark red",
+      "product_price": 7,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-taylor-all-star-tectuff-sneakers-in-dark-red/204043942-1-red"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204047385,
+      "product_title": "Converse Chuck 70 Hi sneakers in orange",
+      "product_price": 8,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-70-hi-sneakers-in-orange/204047385-1-orange"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204047417,
+      "product_title": "Converse Chuck 70 Hi suede sneakers in pale putty",
+      "product_price": 9,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-70-hi-suede-sneakers-in-pale-putty/204047417-1-beige"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204047456,
+      "product_title": "Converse Chuck 70 Hi Cozy Utility quilted sneakers in tan",
+      "product_price": 9,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-70-hi-cozy-utility-quilted-sneakers-in-tan/204047456-1-beige"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204048213,
+      "product_title": "Converse Chuck 70 Hi Cozy Utility sneakers in khaki",
+      "product_price": 9,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-70-hi-cozy-utility-sneakers-in-khaki/204048213-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204094049,
+      "product_title": "Converse Run Star Hike Cozy Utility sneakers in desert sand",
+      "product_price": 115,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-run-star-hike-cozy-utility-sneakers-in-desert-sand/204094049-1-sand"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204094448,
+      "product_title": "Converse Chuck 70 Cozy Utility sneakers in burgundy",
+      "product_price": 9,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-70-cozy-utility-sneakers-in-burgundy/204094448-1-darkred"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204094469,
+      "product_title": "Converse Chuck Taylor All Star Counter Climate sneakers in iron gray",
+      "product_price": 7,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-taylor-all-star-counter-climate-sneakers-in-iron-gray/204094469-1-irongrey"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204096242,
+      "product_title": "Converse Chuck Taylor All Star floral embroidery sneakers in black",
+      "product_price": 7,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-taylor-all-star-floral-embroidery-sneakers-in-black/204096242-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203359050,
+      "product_title": "Nike Air Max 270 sneakers in black and red",
+      "product_price": 160,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-air-max-270-sneakers-in-black-and-red/203359050-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203782781,
+      "product_title": "Columbia Newton Ridge Plus II waterproof hiking boots in black",
+      "product_price": 100,
+      "product_main_image_url": "https://images.asos-media.com/products/columbia-newton-ridge-plus-ii-waterproof-hiking-boots-in-black/203782781-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203350329,
+      "product_title": "New Balance 574 sneakers in white with navy detail",
+      "product_price": 100,
+      "product_main_image_url": "https://images.asos-media.com/products/new-balance-574-sneakers-in-white-with-navy-detail/203350329-1-whitenavy"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203359121,
+      "product_title": "Nike Air Max 90 SE trainers in white",
+      "product_price": 140,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-air-max-90-se-trainers-in-white/203359121-1-white"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203359356,
+      "product_title": "Nike Air Huarache Crater PRM sneakers in gray",
+      "product_price": 135,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-air-huarache-crater-prm-sneakers-in-gray/203359356-1-grey"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203360097,
+      "product_title": "Nike waffle one leather sneakers in black",
+      "product_price": 120,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-waffle-one-leather-sneakers-in-black/203360097-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203362037,
+      "product_title": "Nike Air Force 1 '07 sneakers in burgundy",
+      "product_price": 130,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-air-force-1-07-sneakers-in-burgundy/203362037-1-red"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204094286,
+      "product_title": "Converse Chuck Taylor All Star Lift Cozy Utility sneakers in desert sand",
+      "product_price": 8,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-taylor-all-star-lift-cozy-utility-sneakers-in-desert-sand/204094286-1-sand"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204094331,
+      "product_title": "Converse Chuck 70 Counter Climate sneakers in utility green",
+      "product_price": 9,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-70-counter-climate-sneakers-in-utility-green/204094331-1-green"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 204094427,
+      "product_title": "Converse Chuck 70 Cozy Utility sneakers in beige",
+      "product_price": 9,
+      "product_main_image_url": "https://images.asos-media.com/products/converse-chuck-70-cozy-utility-sneakers-in-beige/204094427-1-beige"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 202570978,
+      "product_title": "Armani Exchange Icon AX logo sliders in black",
+      "product_price": 9,
+      "product_main_image_url": "https://images.asos-media.com/products/armani-exchange-icon-ax-logo-sliders-in-black/202570978-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066099,
+      "product_title": "ASRA Farlan lace up shoes in black tumbled leather",
+      "product_price": 122,
+      "product_main_image_url": "https://images.asos-media.com/products/asra-farlan-lace-up-shoes-in-black-tumbled-leather/203066099-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066122,
+      "product_title": "ASRA Franklin chain loafers in black leather",
+      "product_price": 113,
+      "product_main_image_url": "https://images.asos-media.com/products/asra-franklin-chain-loafers-in-black-leather/203066122-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066135,
+      "product_title": "ASRA Franklin chain loafers in brown leather",
+      "product_price": 113,
+      "product_main_image_url": "https://images.asos-media.com/products/asra-franklin-chain-loafers-in-brown-leather/203066135-1-brown"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203359531,
+      "product_title": "Nike Manoa Leather SE boots in brown",
+      "product_price": 105,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-manoa-leather-se-boots-in-brown/203359531-1-brown"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203591432,
+      "product_title": "Nike Training Legend 3 sneakers in gray",
+      "product_price": 6,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-training-legend-3-sneakers-in-gray/203591432-1-grey"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203591469,
+      "product_title": "Nike Running Air Winflo 9 sneakers in black",
+      "product_price": 100,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-running-air-winflo-9-sneakers-in-black/203591469-1-black"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203591494,
+      "product_title": "Nike Running Zoom Pegasus 39 sneakers in white",
+      "product_price": 130,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-running-zoom-pegasus-39-sneakers-in-white/203591494-1-white"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203888453,
+      "product_title": "adidas Originals Forum 84 mid sneakers in white and blue",
+      "product_price": 110,
+      "product_main_image_url": "https://images.asos-media.com/products/adidas-originals-forum-84-mid-sneakers-in-white-and-blue/203888453-1-midblue"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 202647461,
+      "product_title": "Puma Suede Classic sneakers in black with white detail",
+      "product_price": 7,
+      "product_main_image_url": "https://images.asos-media.com/products/puma-suede-classic-sneakers-in-black-with-white-detail/202647461-1-blackwhite"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203252431,
+      "product_title": "ASOS DESIGN loafers in tan leather with brogue detail",
+      "product_price": 7,
+      "product_main_image_url": "https://images.asos-media.com/products/asos-design-loafers-in-tan-leather-with-brogue-detail/203252431-1-tan"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "product_title": "Urban Terrain Rio with Complete Accessories & Mobile Tracking App 27.5 T Hybrid Cycle/City Bike  (Single Speed, Yellow, Black)",
+      "product_price": "500",
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/416/416/xif0q/cycle/z/z/4/rio-with-complete-accessories-free-home-installation-mobile-original-imagg5ffgpaktzuz.jpeg?q=70",
+      "product_description": "Impress the world with stunning photos and wonderful videos captured using this Sony α7 III DSLR camera that meets all your shooting needs with its innovative features",
+      "id": 204096243
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "product_title": "watch",
+      "product_price": 165,
+      "product_main_image_url": "https://img.gkbcdn.com/p/2022-11-25/Zeblaze-VIBE-7-Smartwatch-Black-518424-0._w280_p1_.jpg",
+      "product_description": "sports shoes",
+      "id": 204096244
+    }
+  ],
+  "todays_deal": [
+    {
+      "product_title": "Hey Dude Shoes",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/4176lRks8qL.jpg",
+      "product_price": {
+        "min": "28.62",
+        "max": "35.97",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/9b063991?showVariations=false",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "KODAK Photo Printer and Instant Camera",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/513Y2Fulv1L.jpg",
+      "product_price": {
+        "min": "78.99",
+        "max": "127.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/050b7e45?showVariations=true",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Danjor Linens Bed Sheets Sets",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41BuMc8xU1L.jpg",
+      "product_price": {
+        "min": "10.23",
+        "max": "30.39",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/7d6d357f?showVariations=false",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Theraice Rx Migraine Relief Caps and Thermal Compression Sleeves",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31TsmtI7ydL.jpg",
+      "product_price": {
+        "min": "18.96",
+        "max": "39.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/6348e64c?showVariations=true",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Skillmatics Toys & Games for All Ages",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/5112RRWcMsL.jpg",
+      "product_price": {
+        "min": "10.47",
+        "max": "17.47",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/9928e472",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Samsonite and American Tourister Luggage",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41sYVziPGTL.jpg",
+      "product_price": {
+        "min": "64.4",
+        "max": "364.78",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/cc4740d4?searchAlias=fashion&showVariations=true",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:59:59.000Z"
+    },
+    {
+      "product_title": "Colorfulkoala women's yoga pants and tops",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41zFpCrxcTL.jpg",
+      "product_price": {
+        "min": "13.99",
+        "max": "25.89",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/64d26d29",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Ekouaer Sleepwear and more",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51wnhyNoAEL.jpg",
+      "product_price": {
+        "min": "7.99",
+        "max": "39.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/f2febb7b?moreDeals=e3da97b6,02340b8d,e4826d01,d930c39b,f2a253dc,4ae861b4,20984a81",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Fire TV Streaming (4K and HD)",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/316Aw7TN4tL.jpg",
+      "product_price": {
+        "min": "19.99",
+        "max": "34.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/ffb3f660",
+      "deal_start": "2022-12-06T05:00:00.000Z",
+      "deal_end": "2022-12-25T05:00:00.000Z"
+    },
+    {
+      "product_title": "All-new Kids Fire Tablets",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/61hH4Q9dN3L.jpg",
+      "product_price": {
+        "min": "59.99",
+        "max": "119.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/1fe9bff9",
+      "deal_start": "2022-12-04T17:00:00.000Z",
+      "deal_end": "2022-12-19T17:00:00.000Z"
+    },
+    {
+      "product_title": "Winter Styles from Amazon Brands",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41d47Escy3L.jpg",
+      "product_price": {
+        "min": "5.9",
+        "max": "43.9",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/cb4f5aec",
+      "deal_start": "2022-12-08T23:00:00.000Z",
+      "deal_end": "2023-01-29T07:59:59.000Z"
+    },
+    {
+      "product_title": "New Year's Resolution Essentials from Amazon Brands",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51iNHq-06oL.jpg",
+      "product_price": {
+        "min": "3.29",
+        "max": "49.23",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/d5b91551?moreDeals=7c031bc4,bce06b83,5ddceedc,a4d6b2ef,b75a523a,8f602ab1,9761a529,3cdc88b6,c084b5d5,8b97ee23",
+      "deal_start": "2022-12-11T16:00:00.000Z",
+      "deal_end": "2023-01-10T07:59:59.000Z"
+    },
+    {
+      "product_title": "Seasonal Home Decor, Ornaments, Garlands, Tree Toppers  and more",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41ljJA7omwL.jpg",
+      "product_price": {
+        "min": "8.49",
+        "max": "124.19",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/a11a807e?showVariations=true",
+      "deal_start": "2022-12-05T21:00:00.000Z",
+      "deal_end": "2022-12-20T07:59:59.000Z"
+    },
+    {
+      "product_title": "Denali Power Tools from Amazon",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41EWK1ufGjL.jpg",
+      "product_price": {
+        "min": "26.49",
+        "max": "77.97",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/6db2d405?showVariations=true",
+      "deal_start": "2022-12-04T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:55:00.000Z"
+    },
+    {
+      "product_title": "Beats Earbuds",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31a6bKuuhWL.jpg",
+      "product_price": {
+        "min": "89.95",
+        "max": "179.95",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/de32a14d?showVariations=true",
+      "deal_start": "2022-12-11T08:10:00.000Z",
+      "deal_end": "2022-12-18T04:55:00.000Z"
+    },
+    {
+      "product_title": "Kindle E-readers",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41P5MVcp1GL.jpg",
+      "product_price": {
+        "min": "89.99",
+        "max": "294.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/a1800318",
+      "deal_start": "2022-12-11T17:00:00.000Z",
+      "deal_end": "2022-12-25T17:00:00.000Z"
+    },
+    {
+      "product_title": "Echo Devices",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41G59ACOfZL.jpg",
+      "product_price": {
+        "min": "14.99",
+        "max": "59.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/cd19e406?showVariations=true",
+      "deal_start": "2022-12-12T17:00:00.000Z",
+      "deal_end": "2022-12-25T07:59:59.000Z"
+    },
+    {
+      "product_title": "Ring Cameras, Ring Video Doorbell, and Echo Bundles",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/3116g71b4tS.jpg",
+      "product_price": {
+        "min": "49.99",
+        "max": "159.98",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/39ec890e?showVariations=true&moreDeals=1003276f",
+      "deal_start": "2022-12-07T05:00:00.000Z",
+      "deal_end": "2022-12-28T05:00:00.000Z"
+    },
+    {
+      "product_title": "Echo Show Devices",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31Lys82GqeL.jpg",
+      "product_price": {
+        "min": "34.99",
+        "max": "185.0",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/0f57dab0?showVariations=true",
+      "deal_start": "2022-12-12T17:00:00.000Z",
+      "deal_end": "2022-12-25T07:59:59.000Z"
+    },
+    {
+      "product_title": "Fitbit products like NEW Sense 2, Inspire 3 & Versa 4",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41B15FwpU+L.jpg",
+      "product_price": {
+        "min": "39.95",
+        "max": "199.95",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/54f3a942?showVariations=true",
+      "deal_start": "2022-12-04T08:00:00.000Z",
+      "deal_end": "2022-12-25T07:59:59.000Z"
+    },
+    {
+      "product_title": "DEWALT Tools",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41rC3c4eNfL.jpg",
+      "product_price": {
+        "min": "7.97",
+        "max": "599.0",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/15d15c32?showVariations=true",
+      "deal_start": "2022-11-24T08:00:00.000Z",
+      "deal_end": "2023-01-24T07:59:59.000Z"
+    },
+    {
+      "product_title": "Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31gXnogBxkL.jpg",
+      "product_price": {
+        "min": "15",
+        "max": "29",
+        "currency": ""
+      },
+      "deal_details_url": "https://www.amazon.com/deal/744fb0a3?showVariations=true",
+      "deal_start": "2022-12-13T05:00:00.000Z",
+      "deal_end": "2022-12-16T07:55:00.000Z"
+    },
+    {
+      "product_title": "Google Pixel Phones, Buds A-Series and Watch",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41xcPNq63PL.jpg",
+      "product_price": {
+        "min": "69.0",
+        "max": "949.0",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/b?node=34756548011",
+      "deal_start": "2022-12-11T08:00:00.000Z",
+      "deal_end": "2022-12-25T07:59:59.000Z"
+    },
+    {
+      "product_title": "Sony Headphones Earbuds and Gaming Headphones",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31yQxnMLbKL.jpg",
+      "product_price": {
+        "min": "28.0",
+        "max": "348.0",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/d2e4612d?showVariations=true",
+      "deal_start": "2022-12-12T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:59:59.000Z"
+    },
+    {
+      "product_title": "All-new Fire Tablets",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/614MtKJrYiL.jpg",
+      "product_price": {
+        "min": "44.99",
+        "max": "94.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/15d73865",
+      "deal_start": "2022-12-12T17:00:00.000Z",
+      "deal_end": "2022-12-14T17:00:00.000Z"
+    },
+    {
+      "product_title": "Hey Dude Shoes",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/4176lRks8qL.jpg",
+      "product_price": {
+        "min": "28.62",
+        "max": "35.97",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/9b063991?showVariations=false",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "KODAK Photo Printer and Instant Camera",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/513Y2Fulv1L.jpg",
+      "product_price": {
+        "min": "78.99",
+        "max": "127.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/050b7e45?showVariations=true",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Danjor Linens Bed Sheets Sets",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41BuMc8xU1L.jpg",
+      "product_price": {
+        "min": "10.23",
+        "max": "30.39",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/7d6d357f?showVariations=false",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Theraice Rx Migraine Relief Caps and Thermal Compression Sleeves",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31TsmtI7ydL.jpg",
+      "product_price": {
+        "min": "18.96",
+        "max": "39.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/6348e64c?showVariations=true",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Skillmatics Toys & Games for All Ages",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/5112RRWcMsL.jpg",
+      "product_price": {
+        "min": "10.47",
+        "max": "17.47",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/9928e472",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Samsonite and American Tourister Luggage",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41sYVziPGTL.jpg",
+      "product_price": {
+        "min": "64.4",
+        "max": "364.78",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/cc4740d4?searchAlias=fashion&showVariations=true",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:59:59.000Z"
+    },
+    {
+      "product_title": "Colorfulkoala women's yoga pants and tops",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41zFpCrxcTL.jpg",
+      "product_price": {
+        "min": "13.99",
+        "max": "25.89",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/64d26d29",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Ekouaer Sleepwear and more",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51wnhyNoAEL.jpg",
+      "product_price": {
+        "min": "7.99",
+        "max": "39.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/f2febb7b?moreDeals=e3da97b6,02340b8d,e4826d01,d930c39b,f2a253dc,4ae861b4,20984a81",
+      "deal_start": "2022-12-13T08:00:00.000Z",
+      "deal_end": "2022-12-14T07:55:00.000Z"
+    },
+    {
+      "product_title": "Fire TV Streaming (4K and HD)",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/316Aw7TN4tL.jpg",
+      "product_price": {
+        "min": "19.99",
+        "max": "34.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/ffb3f660",
+      "deal_start": "2022-12-06T05:00:00.000Z",
+      "deal_end": "2022-12-25T05:00:00.000Z"
+    },
+    {
+      "product_title": "All-new Kids Fire Tablets",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/61hH4Q9dN3L.jpg",
+      "product_price": {
+        "min": "59.99",
+        "max": "119.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/1fe9bff9",
+      "deal_start": "2022-12-04T17:00:00.000Z",
+      "deal_end": "2022-12-19T17:00:00.000Z"
+    },
+    {
+      "product_title": "Winter Styles from Amazon Brands",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41d47Escy3L.jpg",
+      "product_price": {
+        "min": "5.9",
+        "max": "43.9",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/cb4f5aec",
+      "deal_start": "2022-12-08T23:00:00.000Z",
+      "deal_end": "2023-01-29T07:59:59.000Z"
+    },
+    {
+      "product_title": "New Year's Resolution Essentials from Amazon Brands",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51iNHq-06oL.jpg",
+      "product_price": {
+        "min": "3.29",
+        "max": "49.23",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/d5b91551?moreDeals=7c031bc4,bce06b83,5ddceedc,a4d6b2ef,b75a523a,8f602ab1,9761a529,3cdc88b6,c084b5d5,8b97ee23",
+      "deal_start": "2022-12-11T16:00:00.000Z",
+      "deal_end": "2023-01-10T07:59:59.000Z"
+    },
+    {
+      "product_title": "Seasonal Home Decor, Ornaments, Garlands, Tree Toppers  and more",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41ljJA7omwL.jpg",
+      "product_price": {
+        "min": "8.49",
+        "max": "124.19",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/a11a807e?showVariations=true",
+      "deal_start": "2022-12-05T21:00:00.000Z",
+      "deal_end": "2022-12-20T07:59:59.000Z"
+    },
+    {
+      "product_title": "Denali Power Tools from Amazon",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41EWK1ufGjL.jpg",
+      "product_price": {
+        "min": "26.49",
+        "max": "77.97",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/6db2d405?showVariations=true",
+      "deal_start": "2022-12-04T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:55:00.000Z"
+    },
+    {
+      "product_title": "Beats Earbuds",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31a6bKuuhWL.jpg",
+      "product_price": {
+        "min": "89.95",
+        "max": "179.95",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/de32a14d?showVariations=true",
+      "deal_start": "2022-12-11T08:10:00.000Z",
+      "deal_end": "2022-12-18T04:55:00.000Z"
+    },
+    {
+      "product_title": "Kindle E-readers",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41P5MVcp1GL.jpg",
+      "product_price": {
+        "min": "89.99",
+        "max": "294.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/a1800318",
+      "deal_start": "2022-12-11T17:00:00.000Z",
+      "deal_end": "2022-12-25T17:00:00.000Z"
+    },
+    {
+      "product_title": "Echo Devices",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41G59ACOfZL.jpg",
+      "product_price": {
+        "min": "14.99",
+        "max": "59.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/cd19e406?showVariations=true",
+      "deal_start": "2022-12-12T17:00:00.000Z",
+      "deal_end": "2022-12-25T07:59:59.000Z"
+    },
+    {
+      "product_title": "Ring Cameras, Ring Video Doorbell, and Echo Bundles",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/3116g71b4tS.jpg",
+      "product_price": {
+        "min": "49.99",
+        "max": "159.98",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/39ec890e?showVariations=true&moreDeals=1003276f",
+      "deal_start": "2022-12-07T05:00:00.000Z",
+      "deal_end": "2022-12-28T05:00:00.000Z"
+    },
+    {
+      "product_title": "Echo Show Devices",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31Lys82GqeL.jpg",
+      "product_price": {
+        "min": "34.99",
+        "max": "185.0",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/0f57dab0?showVariations=true",
+      "deal_start": "2022-12-12T17:00:00.000Z",
+      "deal_end": "2022-12-25T07:59:59.000Z"
+    },
+    {
+      "product_title": "Fitbit products like NEW Sense 2, Inspire 3 & Versa 4",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41B15FwpU+L.jpg",
+      "product_price": {
+        "min": "39.95",
+        "max": "199.95",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/54f3a942?showVariations=true",
+      "deal_start": "2022-12-04T08:00:00.000Z",
+      "deal_end": "2022-12-25T07:59:59.000Z"
+    },
+    {
+      "product_title": "DEWALT Tools",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41rC3c4eNfL.jpg",
+      "product_price": {
+        "min": "7.97",
+        "max": "599.0",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/15d15c32?showVariations=true",
+      "deal_start": "2022-11-24T08:00:00.000Z",
+      "deal_end": "2023-01-24T07:59:59.000Z"
+    },
+    {
+      "product_title": "Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31gXnogBxkL.jpg",
+      "product_price": {
+        "min": 0,
+        "max": 0,
+        "currency": ""
+      },
+      "deal_details_url": "https://www.amazon.com/deal/744fb0a3?showVariations=true",
+      "deal_start": "2022-12-13T05:00:00.000Z",
+      "deal_end": "2022-12-16T07:55:00.000Z"
+    },
+    {
+      "product_title": "Google Pixel Phones, Buds A-Series and Watch",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41xcPNq63PL.jpg",
+      "product_price": {
+        "min": "69.0",
+        "max": "949.0",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/b?node=34756548011",
+      "deal_start": "2022-12-11T08:00:00.000Z",
+      "deal_end": "2022-12-25T07:59:59.000Z"
+    },
+    {
+      "product_title": "Sony Headphones Earbuds and Gaming Headphones",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/31yQxnMLbKL.jpg",
+      "product_price": {
+        "min": "28.0",
+        "max": "348.0",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/d2e4612d?showVariations=true",
+      "deal_start": "2022-12-12T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:59:59.000Z"
+    },
+    {
+      "product_title": "All-new Fire Tablets",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/614MtKJrYiL.jpg",
+      "product_price": {
+        "min": "44.99",
+        "max": "94.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/15d73865",
+      "deal_start": "2022-12-12T17:00:00.000Z",
+      "deal_end": "2022-12-14T17:00:00.000Z"
+    }
+  ],
+  "cart_items": [
+    {
+      "id": "62581c3db4a7bf3d26859e36",
+      "product_title": "Pasta",
+      "product_price": 99,
+      "product_main_image_url": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGFzdGF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "createdAt": "2022-04-14T13:06:05.030Z",
+      "updatedAt": "2022-04-14T13:06:05.030Z",
+      "quantity": 1
+    },
+    {
+      "id": "62581a1ab4a7bf3d26859e25",
+      "product_title": "Apple",
+      "product_price": 200,
+      "product_main_image_url": "https://media.istockphoto.com/photos/red-apple-picture-id184276818?b=1&k=20&m=184276818&s=170667a&w=0&h=1jiJbUmZdjOPRlfpz7hKexA0XwEPX2b3YCRvamQhWWY=",
+      "createdAt": "2022-04-14T12:56:58.623Z",
+      "updatedAt": "2022-04-14T12:56:58.623Z",
+      "quantity": 1
+    },
+    {
+      "id": "62581c0eb4a7bf3d26859e34",
+      "product_title": "Honey",
+      "product_price": 199,
+      "product_main_image_url": "https://media.istockphoto.com/photos/jar-of-honey-with-honeycomb-picture-id520733611?b=1&k=20&m=520733611&s=170667a&w=0&h=zyCXGecEF7HbHcfbFG53NQxQOYMLI_8MpBZyxZ3dMSk=",
+      "createdAt": "2022-04-14T13:05:18.149Z",
+      "updatedAt": "2022-04-14T13:05:18.149Z",
+      "quantity": 1
+    },
+    {
+      "id": "62581b66b4a7bf3d26859e2e",
+      "product_title": "Eggs",
+      "product_price": 159,
+      "product_main_image_url": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGVnZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "createdAt": "2022-04-14T13:02:30.007Z",
+      "updatedAt": "2022-04-14T13:02:30.007Z",
+      "quantity": 2
+    },
+    {
+      "id": "62581bdeb4a7bf3d26859e32",
+      "product_title": "Mustard oil",
+      "product_price": 259,
+      "product_main_image_url": "https://media.istockphoto.com/photos/mustard-flowers-and-oil-picture-id466908520?b=1&k=20&m=466908520&s=170667a&w=0&h=hZmMMI9DLmvDNgb-S8OTEMteCmCZdrV4y_nZLi4uCe0=",
+      "createdAt": "2022-04-14T13:04:30.824Z",
+      "updatedAt": "2022-04-14T13:04:30.824Z",
+      "quantity": 1
+    },
+    {
+      "id": "62581ad8b4a7bf3d26859e29",
+      "product_title": "Aashirvad Aata",
+      "product_price": 490,
+      "product_main_image_url": "https://www.bigbasket.com/media/uploads/p/xxl/126903_8-aashirvaad-atta-whole-wheat.jpg",
+      "createdAt": "2022-04-14T13:00:08.800Z",
+      "updatedAt": "2022-04-14T13:00:08.800Z",
+      "quantity": 1
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066456,
+      "product_title": "watch",
+      "product_price": 165,
+      "quantity": 1,
+      "product_main_image_url": "https://img.gkbcdn.com/p/2022-11-25/Zeblaze-VIBE-7-Smartwatch-Black-518424-0._w280_p1_.jpg"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203177263,
+      "product_title": "Noak made in Portugal monk shoes in brown leather",
+      "product_price": 137,
+      "quantity": 2,
+      "product_main_image_url": "https://images.asos-media.com/products/noak-made-in-portugal-monk-shoes-in-brown-leather/203177263-1-darkbrown"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 202346181,
+      "product_title": "Tommy Hilfiger technical sandals in navy",
+      "product_price": 6,
+      "quantity": 2,
+      "product_main_image_url": "https://images.asos-media.com/products/tommy-hilfiger-technical-sandals-in-navy/202346181-1-navy"
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203066480,
+      "product_title": "watch",
+      "product_price": 165,
+      "product_main_image_url": "https://img.gkbcdn.com/p/2022-11-25/Zeblaze-VIBE-7-Smartwatch-Black-518424-0._w280_p1_.jpg",
+      "quantity": 2
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203261724,
+      "product_title": "Noak made in Portugal lace up brogue boots in brown leather",
+      "product_price": 171,
+      "product_main_image_url": "https://images.asos-media.com/products/noak-made-in-portugal-lace-up-brogue-boots-in-brown-leather/203261724-1-brown",
+      "quantity": null
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 202770485,
+      "product_title": "Lacoste L005 Sneakers In White Green",
+      "product_price": 126,
+      "product_main_image_url": "https://images.asos-media.com/products/lacoste-l005-sneakers-in-white-green/202770485-1-white",
+      "quantity": 2
+    },
+    {
+      "product_category": "Sports & Outdoors",
+      "id": 203508018,
+      "product_title": "Nike Air Max Flyknit Racer sneakers in black",
+      "product_price": 160,
+      "product_main_image_url": "https://images.asos-media.com/products/nike-air-max-flyknit-racer-sneakers-in-black/203508018-1-black",
+      "quantity": 2
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#10",
+      "product_title": "Kindle Paperwhite (8 GB) – Now with a 6.8\" display and adjustable warm light",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://images-na.ssl-images-amazon.com/images/I/51QCk82iGcL._AC_UL300_SR300,200_.jpg",
+      "product_price": 109.99,
+      "product_detail_url": "https://www.amazon.com/Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249/ref=zg_bs_amazon-devices_sccl_10/143-7113297-8090049?psc=1",
+      "id": "B08KTZ8249",
+      "quantity": 2
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_rank": "#2",
+      "product_title": "samsung tab",
+      "reviews": "4.7 out of 5 stars",
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/312/312/kpvivm80/tablet/r/x/9/sm-t225nzaains-samsung-original-imag4yrg8vahczvr.jpeg?q=70",
+      "product_price": 20,
+      "product_detail_url": "https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5/ref=zg_bs_amazon-devices_sccl_2/143-7113297-8090049?psc=1",
+      "id": "B08XVYZ1Y5",
+      "quantity": 2
+    },
+    {
+      "product_category": "Consumer_Electronics",
+      "product_title": "SONY Alpha 7M3K Mirrorless Camera Body with 28 - 70 mm Zoom Lens  (Black)",
+      "product_price": "500",
+      "product_main_image_url": "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/q/l/w/-original-imag8z5wwaqtq9bz.jpeg?q=70",
+      "product_description": "Impress the world with stunning photos and wonderful videos captured using this Sony α7 III DSLR camera that meets all your shooting needs with its innovative features",
+      "id": "5QoO49k",
+      "quantity": 3
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "62581c7ab4a7bf3d26859e38",
+      "product_title": "Maggie",
+      "price": 20,
+      "image": "https://www.nyoooz.com/uploads/nyoooz-images/maggi_noodles.jpg",
+      "createdAt": "2022-04-14T13:07:06.613Z",
+      "updatedAt": "2022-04-14T13:07:06.613Z",
+      "quantity": 1
+    },
+    {
+      "id": "62581a1ab4a7bf3d26859e25",
+      "product_title": "Apple",
+      "price": 200,
+      "image": "https://media.istockphoto.com/photos/red-apple-picture-id184276818?b=1&k=20&m=184276818&s=170667a&w=0&h=1jiJbUmZdjOPRlfpz7hKexA0XwEPX2b3YCRvamQhWWY=",
+      "createdAt": "2022-04-14T12:56:58.623Z",
+      "updatedAt": "2022-04-14T12:56:58.623Z",
+      "quantity": 1
+    },
+    {
+      "id": "62581ad8b4a7bf3d26859e29",
+      "product_title": "Aashirvad Aata",
+      "price": 490,
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/126903_8-aashirvaad-atta-whole-wheat.jpg",
+      "createdAt": "2022-04-14T13:00:08.800Z",
+      "updatedAt": "2022-04-14T13:00:08.800Z",
+      "quantity": 1
+    }
+  ],
+  "user_address": [
+    {
+      "name": "new Rushikesh Moon",
+      "add": "Savatri bai fule nagar jadu mahal road",
+      "num": "123456789",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pin": "440027",
+      "id": 1
+    },
+    {
+      "name": "new Rushikesh Moon",
+      "add": "Savatri bai fule nagar jadu mahal road",
+      "num": "987654321",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pin": "440027",
+      "id": 2
+    },
+    {
+      "name": "new Rushikesh Moon",
+      "add": "Savatri bai fule nagar jadu mahal road",
+      "num": "987654321",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pin": "440027",
+      "id": 3
+    },
+    {
+      "name": "new Rushikesh Moon",
+      "add": "Savatri bai fule nagar jadu mahal road",
+      "num": "987654321",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pin": "440027",
+      "id": 4
+    },
+    {
+      "name": "new Rushikesh Moon",
+      "add": "Savatri bai fule nagar jadu mahal road",
+      "num": "987654321",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pin": "440027",
+      "id": 5
+    },
+    {
+      "name": "new Rushikesh Moon",
+      "add": "Savatri bai fule nagar jadu mahal road",
+      "num": "987654321",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pin": "440027",
+      "id": 6
+    }
+  ]
+}
