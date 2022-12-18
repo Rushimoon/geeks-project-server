@@ -8,4 +8,4 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port,
-    conosle.log("server is working"));
+    console.log("server is working"));
